@@ -7,6 +7,7 @@
 //
 
 import UIKit
+var name = "Amina"
 
 class ViewController: UIViewController {
 
